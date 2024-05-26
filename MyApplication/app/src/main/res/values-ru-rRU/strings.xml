@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="hello_string">Приветственная строка</string>
+    <string name="button_add">Добавить</string>
+    <string name="text_field">Введи что-нибудь</string>
+    <string name="id_description">ID: %s; Имя: </string>
+    <string name="button_update">Обновить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_delete">Удалить</string>
+</resources>

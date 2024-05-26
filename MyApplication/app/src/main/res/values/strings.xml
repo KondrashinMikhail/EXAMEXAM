@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_string">Hello string</string>
+    <string name="button_add">Add</string>
+    <string name="text_field">Enter something</string>
+    <string name="id_description">ID: %s; Name: </string>
+    <string name="button_update">Update</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+</resources>

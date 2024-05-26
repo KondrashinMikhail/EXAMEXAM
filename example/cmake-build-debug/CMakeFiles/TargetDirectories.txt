@@ -1,0 +1,3 @@
+/Users/mihailkondrasin/Downloads/example/cmake-build-debug/CMakeFiles/example.dir
+/Users/mihailkondrasin/Downloads/example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihailkondrasin/Downloads/example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

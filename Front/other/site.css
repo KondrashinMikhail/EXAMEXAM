@@ -1,0 +1,39 @@
+body {
+    background-color: #999999;
+}
+
+#content {
+    display: flex;
+}
+
+.card {
+    background-color: white;
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.2em;
+    border: 1px solid #333;
+    box-shadow: 0 0 5px #00000066;
+    flex-grow: 1;
+}
+
+#main {
+    flex-grow: 1;
+}
+
+.slot-full {
+    background-color: rgba(255, 0, 0, 0.2);
+}
+
+.slot-empty {
+    background-color: rgba(0, 255, 0, 0.2);
+}
+
+.footer {
+    /* margin-top: auto; */
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+}
